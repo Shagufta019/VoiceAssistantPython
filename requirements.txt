@@ -1,0 +1,7 @@
+# Note: pyaudio usually requires Python 3.8 to 3.12.
+# It may fail to install on experimental or heavily recent versions (like Python 3.14) without manual C++ build tools.
+speechrecognition
+pyttsx3
+requests
+groq
+pyaudio
